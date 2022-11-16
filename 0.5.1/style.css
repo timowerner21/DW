@@ -22,15 +22,56 @@ a{
     border: none;
     width: 90px;
     height: 25px;
+    
     }
-    .b3{
-        background-color: #eb4045;
-        border-radius: 10px;
-        color: white;
-        border: none;
-        width: 90px;
-        height: 25px;
-        }
+.b3{
+    background-color: #eb4045;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    width: 90px;
+    height: 25px;
+ }
+.body{
+    text-align: center;
    
-   
+}
 
+.tarefa1{
+    border: solid 1px;
+    border-radius: 10px;
+    padding: 5px ;
+    margin: 5px auto;
+    width: 40%;
+  
+}
+.tarefa2{
+    border: solid 1px;
+    border-radius: 10px;
+    padding: 5px ;
+    margin: 5px auto;
+    background-color: #8fd14f;
+    width: 40%;
+}
+  
+.tarefa3{
+    border: solid 1px;
+    border-radius: 10px;
+    padding: 5px ;
+    margin: 5px auto;
+    width: 40%;
+}
+.tarefa4{
+    border: solid 1px;
+    border-radius: 10px;
+    padding: 5px ;
+    margin: 5px auto;
+    background-color: #8fd14f;
+    width: 40%;
+}
+p{
+    
+}
+:hover{
+    scale: transform(3.3);
+}
