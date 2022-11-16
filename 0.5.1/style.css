@@ -15,15 +15,22 @@ a{
     
     }
 
-.b{
-    background-color: #8fd14f;
+.b2{
+    background-color: #0ca789;
     border-radius: 10px;
     color: white;
     border: none;
     width: 90px;
     height: 25px;
-    
     }
-
+    .b3{
+        background-color: #eb4045;
+        border-radius: 10px;
+        color: white;
+        border: none;
+        width: 90px;
+        height: 25px;
+        }
+   
    
 
