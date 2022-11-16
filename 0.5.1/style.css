@@ -14,6 +14,16 @@ a{
     height: 25px;
     
     }
-.b1:hover{
-    background-color: black;
-}
+
+.b{
+    background-color: #8fd14f;
+    border-radius: 10px;
+    color: white;
+    border: none;
+    width: 90px;
+    height: 25px;
+    
+    }
+
+   
+
